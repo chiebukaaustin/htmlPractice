@@ -1,0 +1,28 @@
+body {
+	background-color: #bdc3c7;
+	font-family: bangers;
+	font-weight: 100;
+	line-height: 2;
+	text-align:;
+}
+h2 {
+	color: orange;
+	text-decoration: overline;
+}
+li {font-family: poppins;}
+li { color: #0303ff; }
+p {background-color: yellow;
+   border: 5px solid black}
+input { border: 3px solid red; }
+.p1 {background-color: white;}
+#p2 {border: 2px solid blue;}
+ #text {background-color: gray;}
+ div + p { background-color: pink; }
+ li:nth-of-type(3) {background-color: purple;}
+ div:nth-of-type(3) p {background-color: pink;}
+ div:nth-of-type(2) p {border: 5px solid maroon}
+ div p {font-size: 25px}
+    span { font-size: 2.0em;}
+
+
+
